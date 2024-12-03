@@ -5,3 +5,4 @@ The search for habitable exoplanets has long been a contentious issue in astrono
 
 Data scientists have been motivated to examine this light curve information by spatial missions such as the Kepler and Transiting Exoplanet Survey Satellite (TESS). Examining these data aims to look for planet transits to identify and validate exoplanets. Kepler mission's significant contribution to exoplanetary research, creating a comprehensive inventory. Introduction of machine learning techniques, such as Convolutional Neural Networks (CNNs), to automate detection and classification. Overview of the Transiting Exoplanet Survey Satellite (TESS) mission, launched in 2018, covering 85% of the sky and creating one million light curves monthly.
 
+This repository is part of my research paper, 'Beyond Boundaries' which explores the application of machine learning techniques in exoplanetary research.
